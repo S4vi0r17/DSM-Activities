@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">🇵🇪 Personajes Virales del Perú</string>
+
+    <string name="day1">Personaje 1</string>
+    <string name="title1">Faraón Love Shady</string>
+    <string name="description1">Rapero excéntrico de Arequipa. Famoso por su estilo extravagante, letras provocadoras y frases como "Mi bebito fiu fiu". Icono global de los memes peruanos y figura controversial del rap underground arequipeño.</string>
+
+    <string name="day2">Personaje 2</string>
+    <string name="title2">Tapir 590</string>
+    <string name="description2">Influencer limeño conocido por su look llamativo y frases egocéntricas como "Yo no soy fanático del dinero, el dinero es fanático de mí". Mezcla de humor involuntario y seguridad desbordante que lo convirtió en personaje viral.</string>
+
+    <string name="day3">Personaje 3</string>
+    <string name="title3">Chupetín Trujillo</string>
+    <string name="description3">Payaso y streamer trujillano famoso por su grito "Gaaaaaa" y personalidad explosiva. Víctima y símbolo del bullying digital, convertido en figura de culto en TikTok y YouTube. Representa el lado peculiar del internet peruano.</string>
+
+    <string name="day4">Personaje 4</string>
+    <string name="title4">Carboncito</string>
+    <string name="description4">Payasito y streamer de Moquegua. Alcanzó fama por su estilo ingenuo y por los ataques de la comunidad "Beba Army". Representa el lado trágico del internet viral peruano y la cultura del trolleo digital.</string>
+
+    <string name="day5">Personaje 5</string>
+    <string name="title5">Makanaky</string>
+    <string name="description5">Figura callejera convertida en fenómeno viral por sus frases espontáneas, tono peculiar y entrevistas caóticas. Se volvió símbolo del "meme limeño callejero" y representa el humor urbano peruano más auténtico.</string>
+
+    <string name="day6">Personaje 6</string>
+    <string name="title6">La Beba Army</string>
+    <string name="description6">Comunidad online peruana nacida en el entorno del videojuego Dota 2. Se hizo famosa (y temida) por trollear personajes virales y generar "sagas" de memes. Representa la cultura gamer y del internet peruano.</string>
+
+    <string name="day7">Personaje 7</string>
+    <string name="title7">El Chino Risas</string>
+    <string name="description7">Humorista callejero popular en YouTube y Facebook. Su humor espontáneo y frases como "¡Ponte serio, pe!" lo convirtieron en parte del folclore viral. Icono del humor criollo urbano peruano.</string>
+
+    <string name="day8">Personaje 8</string>
+    <string name="title8">La Pánfila</string>
+    <string name="description8">Comediante que mezcla humor popular y sátira social. Se viralizó en TikTok con frases y escenas exageradas, representando el clásico humor criollo. Sus videos capturan la esencia del humor peruano tradicional.</string>
+
+    <string name="day9">Personaje 9</string>
+    <string name="title9">Cuto Guadalupe</string>
+    <string name="description9">Exfutbolista convertido en figura motivacional y meme. Su frase "La fe es lo más lindo de la vida" se volvió símbolo de positivismo irónico en redes. Icono del fútbol peruano transformado en fenómeno viral.</string>
+
+    <string name="day10">Personaje 10</string>
+    <string name="title10">Tongo (Q.E.P.D.)</string>
+    <string name="description10">Leyenda del meme peruano. Sus versiones en "inglés tongo" de canciones pop y su carisma lo hicieron un ícono eterno del internet latino. Su legado musical y viral perdura en la memoria digital peruana.</string>
+
+    <string name="nota">🇵🇪 Personajes virales y de memes del Perú - Una celebración de la cultura viral peruana</string>
+</resources>

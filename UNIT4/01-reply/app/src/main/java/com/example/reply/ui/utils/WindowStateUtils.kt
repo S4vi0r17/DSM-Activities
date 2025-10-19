@@ -13,16 +13,11 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+package com.example.reply.ui.utils
 
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-buildscript {
-    extra.apply {
-        set("lifecycle_version", "2.7.0")
-    }
-}
-
-plugins {
-    id("com.android.application") version "8.3.1" apply false
-    id("com.android.library") version "8.3.1" apply false
-    id("org.jetbrains.kotlin.android") version "1.9.22" apply false
+/**
+ * Different type of navigation supported by app depending on size and state.
+ */
+enum class ReplyNavigationType {
+    BOTTOM_NAVIGATION, NAVIGATION_RAIL, PERMANENT_NAVIGATION_DRAWER
 }

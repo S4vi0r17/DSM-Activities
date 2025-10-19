@@ -1,6 +1,6 @@
-Reply App - Starter Code
+Reply App - Navigation Update Starter Code
 =================================
-Starter code for the Android Basics with Compose: Reply app.
+Navigation update starter code for the Android Basics with Compose: Reply app.
 
 Introduction
 ------------

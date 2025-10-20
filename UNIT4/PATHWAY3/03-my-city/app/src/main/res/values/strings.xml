@@ -1,3 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My City</string>
+    <!-- Nombre de la app -->
+    <string name="app_name">Mi Ciudad - Lima</string>
+    
+    <!-- Títulos de navegación -->
+    <string name="categories_screen_title">Categorías</string>
+    <string name="places_screen_title">Lugares Recomendados</string>
+    <string name="place_detail_screen_title">Detalles del Lugar</string>
+    
+    <!-- Categorías -->
+    <string name="category_cafeterias">Cafeterías</string>
+    <string name="category_restaurantes">Restaurantes</string>
+    <string name="category_parques">Parques</string>
+    <string name="category_museos">Museos</string>
+    <string name="category_centros_comerciales">Centros Comerciales</string>
+    
+    <!-- Cafeterías -->
+    <string name="place_cafe_tostado">Tostado Café Bar</string>
+    <string name="place_cafe_tostado_short">Café acogedor con excelentes desayunos y repostería artesanal.</string>
+    <string name="place_cafe_tostado_full">Tostado Café Bar es un lugar perfecto para disfrutar de un café de altura. Con ambiente acogedor y música suave, es ideal para trabajar o conversar. Destacan sus desayunos completos, sándwiches gourmet y una variedad de postres caseros. El café es de origen peruano, tostado artesanalmente.</string>
+    <string name="place_cafe_tostado_address">Av. La Mar 1337, Miraflores</string>
+    
+    <string name="place_cafe_bisetti">Café Bisetti</string>
+    <string name="place_cafe_bisetti_short">Café italiano tradicional con excelentes expressos y cappuccinos.</string>
+    <string name="place_cafe_bisetti_full">Café Bisetti ofrece una experiencia italiana auténtica en el corazón de Miraflores. Sus baristas expertos preparan el espresso perfecto. El ambiente es elegante pero casual, perfecto para reuniones de negocios o encuentros con amigos. También ofrecen una selección de pasteles y bocadillos frescos.</string>
+    <string name="place_cafe_bisetti_address">Av. Conquistadores 945, San Isidro</string>
+    
+    <string name="place_cafe_juan_valdez">Juan Valdez Café</string>
+    <string name="place_cafe_juan_valdez_short">Cadena colombiana con café premium y ambiente moderno.</string>
+    <string name="place_cafe_juan_valdez_full">Juan Valdez trae lo mejor del café colombiano a Lima. Con múltiples ubicaciones, ofrece consistencia en calidad y servicio. Sus bebidas frías son especialmente populares en verano. El ambiente es moderno y cómodo, con WiFi gratuito y espacios ideales para estudiar o trabajar.</string>
+    <string name="place_cafe_juan_valdez_address">Av. Larco 1232, Miraflores</string>
+    
+    <!-- Restaurantes -->
+    <string name="place_rest_central">Central Restaurante</string>
+    <string name="place_rest_central_short">Restaurante galardonado con lo mejor de la gastronomía peruana contemporánea.</string>
+    <string name="place_rest_central_full">Central es considerado uno de los mejores restaurantes de América Latina. El chef Virgilio Martínez crea una experiencia culinaria única que recorre los diferentes ecosistemas del Perú, desde el Pacífico hasta los Andes. Cada plato cuenta una historia de biodiversidad peruana. Reserva con anticipación es altamente recomendada.</string>
+    <string name="place_rest_central_address">Av. Pedro de Osma 301, Barranco</string>
+    
+    <string name="place_rest_maido">Maido</string>
+    <string name="place_rest_maido_short">Fusión nikkei de alta cocina por el chef Mitsuharu Tsumura.</string>
+    <string name="place_rest_maido_full">Maido representa la perfecta fusión entre la cocina japonesa y peruana. El chef Mitsuharu "Micha" Tsumura ofrece una experiencia nikkei de clase mundial. Los menús degustación son espectaculares, con ingredientes frescos del mar peruano preparados con técnicas japonesas. El ambiente es elegante y el servicio impecable.</string>
+    <string name="place_rest_maido_address">Calle San Martín 399, Miraflores</string>
+    
+    <string name="place_rest_astrid_gaston">Astrid y Gastón</string>
+    <string name="place_rest_astrid_gaston_short">Ícono de la gastronomía peruana por Gastón Acurio.</string>
+    <string name="place_rest_astrid_gaston_full">Astrid y Gastón es el restaurante emblemático del chef Gastón Acurio. Ubicado en una casona restaurada de San Isidro, ofrece una experiencia gastronómica que celebra los sabores peruanos con técnicas contemporáneas. El menú cambia estacionalmente, destacando siempre productos locales de la más alta calidad.</string>
+    <string name="place_rest_astrid_gaston_address">Av. Paz Soldán 290, San Isidro</string>
+    
+    <!-- Parques -->
+    <string name="place_park_kennedy">Parque Kennedy</string>
+    <string name="place_park_kennedy_short">Corazón de Miraflores, famoso por sus gatos y ambiente bohemio.</string>
+    <string name="place_park_kennedy_full">El Parque Kennedy es el punto de encuentro más emblemático de Miraflores. Rodeado de cafés, librerías y restaurantes, es famoso por sus numerosos gatos que viven libremente en el parque. Los fines de semana hay feria de artesanías y presentaciones culturales. Es un lugar perfecto para pasear, leer o simplemente observar la vida limeña.</string>
+    <string name="place_park_kennedy_address">Av. Larco, Miraflores</string>
+    
+    <string name="place_park_amor">Parque del Amor</string>
+    <string name="place_park_amor_short">Romántico parque con vista al mar y la icónica escultura El Beso.</string>
+    <string name="place_park_amor_full">El Parque del Amor es uno de los lugares más románticos de Lima. Ubicado en el Malecón de Miraflores, ofrece vistas espectaculares del Océano Pacífico. Su escultura central "El Beso" de Víctor Delfín es un ícono de la ciudad. Los muros están decorados con mosaicos que contienen poemas de amor. Es especialmente hermoso al atardecer.</string>
+    <string name="place_park_amor_address">Malecón Cisneros, Miraflores</string>
+    
+    <string name="place_park_reserva">Circuito Mágico del Agua</string>
+    <string name="place_park_reserva_short">Espectacular parque de fuentes con shows de agua, luz y música.</string>
+    <string name="place_park_reserva_full">El Circuito Mágico del Agua en el Parque de la Reserva es un espectáculo imperdible. Con 13 fuentes cibernéticas, ostenta el récord Guinness del complejo de fuentes más grande del mundo. El show nocturno combina agua, luces láser y música en una experiencia mágica. La Fuente de la Fantasía es la más impresionante, con un túnel de agua por donde puedes caminar.</string>
+    <string name="place_park_reserva_address">Jr. Madre de Dios, Cercado de Lima</string>
+    
+    <!-- Museos -->
+    <string name="place_museum_larco">Museo Larco</string>
+    <string name="place_museum_larco_short">Impresionante colección de arte precolombino en una mansión virreinal.</string>
+    <string name="place_museum_larco_full">El Museo Larco alberga una de las colecciones más completas de arte precolombino del mundo. Fundado por Rafael Larco Hoyle, el museo está ubicado en una mansión virreinal del siglo XVIII rodeada de hermosos jardines. Sus galerías exhiben más de 5,000 años de historia peruana. Destacan la colección de cerámica erótica y las joyas de oro y plata.</string>
+    <string name="place_museum_larco_address">Av. Bolívar 1515, Pueblo Libre</string>
+    
+    <string name="place_museum_mali">Museo de Arte de Lima - MALI</string>
+    <string name="place_museum_mali_short">Principal museo de arte del Perú con 3,000 años de historia artística.</string>
+    <string name="place_museum_mali_full">El MALI es el principal museo de arte del Perú, ubicado en el histórico Palacio de la Exposición en el Parque de la Exposición. Su colección permanente abarca más de 3,000 años de historia del arte peruano, desde piezas precolombinas hasta arte contemporáneo. Regularmente presenta exposiciones temporales de artistas nacionales e internacionales.</string>
+    <string name="place_museum_mali_address">Paseo Colón 125, Cercado de Lima</string>
+    
+    <string name="place_museum_nacion">Museo Nacional del Perú</string>
+    <string name="place_museum_nacion_short">Moderno museo que exhibe la riqueza cultural e histórica del Perú.</string>
+    <string name="place_museum_nacion_full">El Museo Nacional del Perú (MUNA) es uno de los museos más modernos de Latinoamérica. Inaugurado recientemente, exhibe más de 12,000 piezas que narran la historia del Perú desde tiempos precolombinos hasta la actualidad. Su arquitectura contemporánea y tecnología de punta crean una experiencia museística única. Es especialmente educativo para familias.</string>
+    <string name="place_museum_nacion_address">Av. Javier Prado Este 2466, San Borja</string>
+    
+    <!-- Centros Comerciales -->
+    <string name="place_mall_jockey_plaza">Jockey Plaza</string>
+    <string name="place_mall_jockey_plaza_short">Uno de los centros comerciales más grandes y completos de Lima.</string>
+    <string name="place_mall_jockey_plaza_full">Jockey Plaza es uno de los centros comerciales más emblemáticos de Lima. Con más de 350 tiendas, ofrece una gran variedad de marcas nacionales e internacionales. Cuenta con amplios patios de comida, cines multiplex, y áreas de entretenimiento. Es ideal para pasar el día de compras o simplemente pasear. Los fines de semana suele estar muy concurrido.</string>
+    <string name="place_mall_jockey_plaza_address">Av. Javier Prado Este 4200, Surco</string>
+    
+    <string name="place_mall_larcomar">Larcomar</string>
+    <string name="place_mall_larcomar_short">Centro comercial al aire libre con espectaculares vistas al Pacífico.</string>
+    <string name="place_mall_larcomar_full">Larcomar es único por su ubicación sobre los acantilados del Malecón de Miraflores, ofreciendo vistas impresionantes del Océano Pacífico. Este centro comercial al aire libre combina compras, gastronomía y entretenimiento. Sus restaurantes con terrazas son perfectos para cenar viendo el atardecer. También cuenta con cine, discoteca y zona de vuelos en parapente.</string>
+    <string name="place_mall_larcomar_address">Malecón de la Reserva 610, Miraflores</string>
+    
+    <string name="place_mall_real_plaza">Real Plaza Salaverry</string>
+    <string name="place_mall_real_plaza_short">Moderno mall con excelente mix de tiendas y entretenimiento.</string>
+    <string name="place_mall_real_plaza_full">Real Plaza Salaverry es un centro comercial moderno y accesible. Con más de 200 tiendas, ofrece una buena selección de marcas a diferentes precios. Su zona de restaurantes es variada, desde comida rápida hasta opciones más gourmet. Cuenta con cines, juegos para niños y amplios estacionamientos. Es una opción práctica para compras cotidianas.</string>
+    <string name="place_mall_real_plaza_address">Av. Salaverry 2370, Jesús María</string>
+    
+    <!-- Textos de la UI -->
+    <string name="back_button">Volver</string>
+    <string name="rating_label">Calificación:</string>
+    <string name="address_label">Dirección:</string>
+    <string name="select_category">Selecciona una categoría para explorar</string>
 </resources>

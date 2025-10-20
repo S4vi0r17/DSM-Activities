@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+
+    <dimen name="card_corner_radius">20dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_image_height">128dp</dimen>
+    <dimen name="card_text_vertical_space">4dp</dimen>
+    
+    <dimen name="category_card_height">160dp</dimen>
+    <dimen name="category_icon_size">64dp</dimen>
+
+    <dimen name="padding_detail_content_horizontal">40dp</dimen>
+    <dimen name="padding_detail_content_vertical">24dp</dimen>
+    
+    <dimen name="banner_height">250dp</dimen>
+</resources>

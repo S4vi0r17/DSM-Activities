@@ -46,7 +46,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             ReplyTheme {
                 val layoutDirection = LocalLayoutDirection.current
-                Surface (
+                Surface(
                     modifier = Modifier
                         .padding(
                             start = WindowInsets.safeDrawing.asPaddingValues()
@@ -54,8 +54,9 @@ class MainActivity : ComponentActivity() {
                             end = WindowInsets.safeDrawing.asPaddingValues()
                                 .calculateEndPadding(layoutDirection)
                         )
-                ){
+                ) {
                     val windowSize = calculateWindowSizeClass(this)
+
                     ReplyApp(
                         windowSize = windowSize.widthSizeClass,
                     )
@@ -72,6 +73,30 @@ fun ReplyAppCompactPreview() {
         Surface {
             ReplyApp(
                 windowSize = WindowWidthSizeClass.Compact,
+            )
+        }
+    }
+}
+
+@Preview(showBackground = true, widthDp = 700)
+@Composable
+fun ReplyAppMediumPreview() {
+    ReplyTheme {
+        Surface {
+            ReplyApp(
+                windowSize = WindowWidthSizeClass.Medium,
+            )
+        }
+    }
+}
+
+@Preview(showBackground = true, widthDp = 1000)
+@Composable
+fun ReplyAppExpandedPreview() {
+    ReplyTheme {
+        Surface {
+            ReplyApp(
+                windowSize = WindowWidthSizeClass.Expanded,
             )
         }
     }
